@@ -1,0 +1,14 @@
+diff a/test2.java b/test2.java	(rejected hunks)
+@@ -3,8 +3,10 @@
+ public void main{
+ 	
+ 	for(int i = 0 ; i<10;i++){
+-		if(1){
+-			
++		if(0){
++			if(1){
++				
++			}
+ 		}
+ 	}
+ 	
